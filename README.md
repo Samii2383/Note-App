@@ -29,7 +29,6 @@ This project demonstrates my skills in **frontend development, component-based a
 - ❌ **Delete Notes** – Remove notes you no longer need.  
 - 📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile.  
 - 🎨 **Modern UI** – Clean interface with React components.  
-- 🌙 **Dark Mode** – Toggle between light and dark themes.  
 - 💾 **Local Storage** – Notes persist even after page reload.  
 
 ---
