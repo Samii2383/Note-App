@@ -82,11 +82,6 @@ npm run dev
 4. Open in your browser:
 👉 http://localhost:5173
 
-📸 Screenshots
-<img width="1919" height="1064" alt="Screenshot 2025-09-26 170059" src="https://github.com/user-attachments/assets/f35b5d8c-c696-40ed-91ad-88c3773b3af0" />
-<img width="1919" height="1079" alt="Screenshot 2025-09-26 170126" src="https://github.com/user-attachments/assets/b75f9e21-82f4-41eb-8c7d-4ae7128caefa" />
-
-
 
 🤝 Contributing
 
